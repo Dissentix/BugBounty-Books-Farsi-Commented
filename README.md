@@ -19,11 +19,6 @@ My goal is to **provide high-quality Persian content** with **annotations & expl
 🔹 Have suggestions or issues? Open a **new Issue**.  
 
 ## ⭐ Support Me!  
-If you find this project useful, please consider **starring the repository**! Your support helps me create more Persian security resources. 🚀  
-
-## 🔗 Related Resources  
-📌 **Zseano’s Official Website** ➝ [zseano.com](https://zseano.com)  
-📌 **Bug Bounty Hunter Platform** ➝ [bugbountyhunter.com](https://www.bugbountyhunter.com/)  
-📌 **Zseano on Twitter** ➝ [twitter.com/zseano](https://twitter.com/zseano)   
+If you find this project useful, please consider **starring the repository**! Your support helps me create more Persian security resources. 🚀   
 
 ⚡ **Don’t learn to hack, hack to learn!** ⚡
