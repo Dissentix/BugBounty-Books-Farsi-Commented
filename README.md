@@ -6,13 +6,17 @@ This repository contains **Persian-translated & commented** versions of well-kno
 My goal is to **provide high-quality Persian content** with **annotations & explanations** for security enthusiasts, ethical hackers, and penetration testers.  
 
 ## 📌 Repository Content  
-- 📖 **Zseano’s Bug Bounty Methodology** – ✅ **Fully translated & commented in Persian**  
+- 📖 **Zseano’s Bug Bounty Methodology** – ✅ **Fully translated & commented in Persian**
+
+- 📖 **Bug Bounty Bootcamp** – ✅ **Fully translated & commented in Persian**
 
 ## 📥 Download Files  
 🔹 The latest **translated & commented** versions can be found in the **Releases** section.  
 🔹 Direct download link:  
 
 📌 **Zseano's Methodology - Persian (Commented)** ➝ [Download](https://github.com/Dissentix/BugBounty-Books-Farsi-Commented/blob/main/Zseano-Methodology-Persian-Commented.pdf)  
+
+📌 **Bug Bounty Bootcamp - Persian (Commented)** ➝ [Download](https://github.com/Dissentix/BugBounty-Books-Farsi-Commented/blob/main/Bug_Bounty_Bootcamp_Persian_Commented.pdf)
 
 ## 🔥 Contribute!  
 🔹 Want to help with **translations & documentation**? Feel free to submit a **Pull Request**.  
